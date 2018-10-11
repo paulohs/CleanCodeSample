@@ -1,7 +1,7 @@
 # CleanCodeSample
 Apresentação sobre CleanCode feita na Benner Sistemas.
 
-* Apresentação no [SlideShare](https://pt.slideshare.net/PauloHenriquedaSilva14/clean-code-boas-prticas-para-desenvolvimento).
+* Apresentação no [SlideShare](https://pt.slideshare.net/PauloHenriquedaSilva14/clean-code-boas-prticas-para-desenvolvimento-119138210).
 * Código dos exemplos em [aqui.](CleanCodeSample)
 
 Como utilizar a aplicação exemplo:
