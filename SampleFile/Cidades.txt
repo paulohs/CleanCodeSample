@@ -1,0 +1,9 @@
+Cidade;Estado;País
+Blumenau;Santa Catarina;Brasil
+Gaspar;Santa Catarina;Brasil
+Porto Alegre;Rio Grande do Sul;Brasil
+Rio de Janeiro;Rio de Janeiro;Brasil
+Buenos Aires;Provícia de Buenos Aires;Argentina
+São Francisco;Califórnia;Estados Unidos
+Seattle;Washington;Estados Unidos
+Las Vegas;Nevada;Estados Unidos
